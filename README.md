@@ -1,7 +1,7 @@
 # Intel® Gaudi® PyTorch Bridge
 
 Intel Gaudi PyTorch Bridge consists of several Python packages enabling Intel Gaudi
-functionality in PyTorch with minimal code changes.
+functionality in PyTorch with minimal code changes. 
 
 ## Repository Build
 
