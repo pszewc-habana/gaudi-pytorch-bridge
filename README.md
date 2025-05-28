@@ -9,7 +9,7 @@ This repository can be built as part of the Intel Gaudi software stack or as a s
 
 These steps assume you are building on Ubuntu 22.04. If you use a different OS, you need to adjust the package installation steps based on the instructions provided [here](https://docs.habana.ai/en/latest/Installation_Guide/Driver_Installation.html#driver-installation).
 
-### One-time Setup
+### One-time Setup  
 
 Follow the below steps once to configure your environment for the repository build.
 
